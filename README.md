@@ -1,4 +1,4 @@
-# FNV implementation in Matlab
+# FNV Hash implementation in Matlab
 
 The basic information regarding FNV is provided here (http://www.isthe.com/chongo/tech/comp/fnv/). Both FNV1 and FNV1a is implemented here.
 
